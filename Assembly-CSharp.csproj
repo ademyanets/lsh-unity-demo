@@ -120,8 +120,9 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
-    <Compile Include="Assets\Scripts\CharacterController2D.cs" />
-    <Compile Include="Assets\Scripts\OptimusController.cs" />
+    <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Experiments\CharacterController2D.cs" />
+    <Compile Include="Assets\Scripts\Experiments\OptimusController.cs" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/andrey.demyanets/Projects/unity/optimus-demo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
