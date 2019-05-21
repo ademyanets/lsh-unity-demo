@@ -1,0 +1,3565 @@
+fileFormatVersion: 2
+guid: f937ed6d49fcd403c8d81b9d99d2986f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: optimus_transparent_0
+    21300002: optimus_transparent_1
+    21300004: optimus_transparent_2
+    21300006: optimus_transparent_3
+    21300008: optimus_transparent_4
+    21300010: optimus_transparent_5
+    21300012: optimus_transparent_6
+    21300014: optimus_transparent_7
+    21300016: optimus_transparent_8
+    21300018: optimus_transparent_9
+    21300020: optimus_transparent_10
+    21300022: optimus_transparent_11
+    21300024: optimus_transparent_12
+    21300026: optimus_transparent_13
+    21300028: optimus_transparent_14
+    21300030: optimus_transparent_15
+    21300032: optimus_transparent_16
+    21300034: optimus_transparent_17
+    21300036: optimus_transparent_18
+    21300038: optimus_transparent_19
+    21300040: optimus_transparent_20
+    21300042: optimus_transparent_21
+    21300044: optimus_transparent_22
+    21300046: optimus_transparent_23
+    21300048: optimus_transparent_24
+    21300050: optimus_transparent_25
+    21300052: optimus_transparent_26
+    21300054: optimus_transparent_27
+    21300056: optimus_transparent_28
+    21300058: optimus_transparent_29
+    21300060: optimus_transparent_30
+    21300062: optimus_transparent_31
+    21300064: optimus_transparent_32
+    21300066: optimus_transparent_33
+    21300068: optimus_transparent_34
+    21300070: optimus_transparent_35
+    21300072: optimus_transparent_36
+    21300074: optimus_transparent_37
+    21300076: optimus_transparent_38
+    21300078: optimus_transparent_39
+    21300080: optimus_transparent_40
+    21300082: optimus_transparent_41
+    21300084: optimus_transparent_42
+    21300086: optimus_transparent_43
+    21300088: optimus_transparent_44
+    21300090: optimus_transparent_45
+    21300092: optimus_transparent_46
+    21300094: optimus_transparent_47
+    21300096: optimus_transparent_48
+    21300098: optimus_transparent_49
+    21300100: optimus_transparent_50
+    21300102: optimus_transparent_51
+    21300104: optimus_transparent_52
+    21300106: optimus_transparent_53
+    21300108: optimus_transparent_54
+    21300110: optimus_transparent_55
+    21300112: optimus_transparent_56
+    21300114: optimus_transparent_57
+    21300116: optimus_transparent_58
+    21300118: optimus_transparent_59
+    21300120: optimus_transparent_60
+    21300122: optimus_transparent_61
+    21300124: optimus_transparent_62
+    21300126: optimus_transparent_63
+    21300128: optimus_transparent_64
+    21300130: optimus_transparent_65
+    21300132: optimus_transparent_66
+    21300134: optimus_transparent_67
+    21300136: optimus_transparent_68
+    21300138: optimus_transparent_69
+    21300140: optimus_transparent_70
+    21300142: optimus_transparent_71
+    21300144: optimus_transparent_72
+    21300146: optimus_transparent_73
+    21300148: optimus_transparent_74
+    21300150: optimus_transparent_75
+    21300152: optimus_transparent_76
+    21300154: optimus_transparent_77
+    21300156: optimus_transparent_78
+    21300158: optimus_transparent_79
+    21300160: optimus_transparent_80
+    21300162: optimus_transparent_81
+    21300164: optimus_transparent_82
+    21300166: optimus_transparent_83
+    21300168: optimus_transparent_84
+    21300170: optimus_transparent_85
+    21300172: optimus_transparent_86
+    21300174: optimus_transparent_87
+    21300176: optimus_transparent_88
+    21300178: optimus_transparent_89
+    21300180: optimus_transparent_90
+    21300182: optimus_transparent_91
+    21300184: optimus_transparent_92
+    21300186: optimus_transparent_93
+    21300188: optimus_transparent_94
+    21300190: optimus_transparent_95
+    21300192: optimus_transparent_96
+    21300194: optimus_transparent_97
+    21300196: optimus_transparent_98
+    21300198: optimus_transparent_99
+    21300200: optimus_transparent_100
+    21300202: optimus_transparent_101
+    21300204: optimus_transparent_102
+    21300206: optimus_transparent_103
+    21300208: optimus_transparent_104
+    21300210: optimus_transparent_105
+    21300212: optimus_transparent_106
+    21300214: optimus_transparent_107
+    21300216: optimus_transparent_108
+    21300218: optimus_transparent_109
+    21300220: optimus_transparent_110
+    21300222: optimus_transparent_111
+    21300224: optimus_transparent_112
+    21300226: optimus_transparent_113
+    21300228: optimus_transparent_114
+    21300230: optimus_transparent_115
+    21300232: optimus_transparent_116
+    21300234: optimus_transparent_117
+    21300236: optimus_transparent_118
+    21300238: optimus_transparent_119
+    21300240: optimus_transparent_120
+    21300242: optimus_transparent_121
+    21300244: optimus_transparent_122
+    21300246: optimus_transparent_123
+    21300248: optimus_transparent_124
+    21300250: optimus_transparent_125
+    21300252: optimus_transparent_126
+    21300254: optimus_transparent_127
+    21300256: optimus_transparent_128
+    21300258: optimus_transparent_129
+    21300260: optimus_transparent_130
+    21300262: optimus_transparent_131
+    21300264: optimus_transparent_132
+    21300266: optimus_transparent_133
+    21300268: optimus_transparent_134
+    21300270: optimus_transparent_135
+    21300272: optimus_transparent_136
+    21300274: optimus_transparent_137
+    21300276: optimus_transparent_138
+    21300278: optimus_transparent_139
+    21300280: optimus_transparent_140
+    21300282: optimus_transparent_141
+    21300284: optimus_transparent_142
+    21300286: optimus_transparent_143
+    21300288: optimus_transparent_144
+    21300290: optimus_transparent_145
+    21300292: optimus_transparent_146
+    21300294: optimus_transparent_147
+    21300296: optimus_transparent_148
+    21300298: optimus_transparent_149
+    21300300: optimus_transparent_150
+    21300302: optimus_transparent_151
+    21300304: optimus_transparent_152
+    21300306: optimus_transparent_153
+    21300308: optimus_transparent_154
+    21300310: optimus_transparent_155
+    21300312: optimus_transparent_156
+    21300314: optimus_transparent_157
+    21300316: optimus_transparent_158
+    21300318: optimus_transparent_159
+    21300320: optimus_transparent_160
+    21300322: optimus_transparent_161
+    21300324: optimus_transparent_162
+    21300326: optimus_transparent_163
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: optimus_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2518
+        width: 387
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffc621d240a244d6b6cb1c9db45f7b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2513
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe596135d334c01bb96e79e6fb996a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2512
+        width: 261
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f14e6f0a8a24b82ad1aea53919e440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2515
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e28a5db5fb04c7e996cb4212fa9d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2512
+        width: 137
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02126bcb2dd4fed8971570cf623bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2513
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dbfbaa71f214d4fadc790c5851e693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2513
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fb5e5a83e44f3f8e96a0ab125aa76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2504
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0973cd559514a27842f815e40d4ae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2504
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d78f69687c4630845c7eae9037c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2508
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b100c387dece749a19f07e11fcb878f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 2480
+        width: 201
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c3d506521404360a41ca160e1219b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 2489
+        width: 201
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cced9af6fd3742cdbdd4550d1a22268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 2492
+        width: 201
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28fd9636e799418db1488da909c3b53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2494
+        width: 203
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aacb030ad6b43538f8d7d546de71b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2490
+        width: 171
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4270413783e1e43f5879c7f4f7ee7fb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2478
+        width: 128
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b1c2cf23994e41b44d285fae84312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2311
+        width: 102
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3de0b873ee8c450a9198c23174bc880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2309
+        width: 102
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7ffc1656974c849c3df5d86eadb92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2311
+        width: 102
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c438bae32448e59169bde9ee80b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2314
+        width: 103
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a194ca8b74f424797836e38c2faf1073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2325
+        width: 178
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cbd9fe8ca4d466db409b8c806de71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2327
+        width: 176
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7aa586a57b42d9b0e964980ebb920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2327
+        width: 201
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3202494bb23b4d42831f738b61745b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2352
+        width: 222
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d578aa7ff354ebfb6f78e540d76cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2373
+        width: 203
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986fd5028790d439ab32b4b1a585784a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2212
+        width: 168
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e541285c34a254c51a4d5e36504b66b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2218
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a01fe0d125e461fb656dcd43043dcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 2217
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2373c22daebd4fc5994e871fb2a135a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 2208
+        width: 198
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92827ad1f874dd5b277cbdadf03708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 2212
+        width: 190
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f397f00b9f4aaea03dc9e1ac54da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2218
+        width: 239
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b81f578fb34d96a25937e7d15b01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2312
+        width: 137
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c3ba2027f24d609599e9cd6564638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2330
+        width: 136
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a6c6e07d2a42408b290940c75cdda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2279
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89cbf846ec0244c89761813b04ee29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2250
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96c8243656a46e1b27249ac20e3888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2251
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c00b71826474ab3adc4527b4950f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2187
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db7a85f19834b07bffaf1aa0156556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2172
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5524c317554c3ebb4b709428ce0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2166
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f357d1524a04d51bf46c070f7938e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1951
+        width: 231
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b70a960a1e49488d671414f0c9811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_40
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1945
+        width: 218
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f3b2d56a41b41eb9ebc2cbeabf3d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_41
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1945
+        width: 239
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3af931301b4a4aa47e661e97ce222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_42
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1941
+        width: 239
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfffc727fc46147519483c6e89a717ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_43
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1940
+        width: 239
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd8cb83f0984a1caf71db9691d7efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_44
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1933
+        width: 217
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695dc3d2e64b4094a9d253b9d89d3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_45
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1930
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fdc0439f7e5436f90b63aa56ca5207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_46
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1935
+        width: 218
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55392550baa4bd3aeec117488c72f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_47
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1935
+        width: 218
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bff779946854935ba0633794e2813c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_48
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1933
+        width: 234
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a49f99875214a51b94d3488885e91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_49
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1928
+        width: 216
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a0119a8b70445285ca5b2a3342519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_50
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1926
+        width: 218
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450307e3ce3a44d99239696da31d2cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1669
+        width: 238
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe06611ed3a4368afa01301bb9e7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1669
+        width: 238
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5416c6763704fc5a6dce5365f86699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1668
+        width: 238
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce6d7322358419cbf249f9006a7606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1673
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f3a3b0688a34012b2ff552eea9ff2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_55
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1882
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b657266561c046c2a4022cffe7cbd16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_56
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1878
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77c97d0b0e643918779f05aa2d6b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_57
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 1878
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01b4181bef7432095e44dcfe914b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_58
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1879
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98353e1af48e540f78d08229432c0409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_59
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 1879
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7eed8ce79774bcca0e5f04489942a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1706
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e1c50a5bc2040ebbc755e38970ab94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1701
+        width: 112
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9724172a9cc4609bfb9786de5c8a12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_62
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1668
+        width: 223
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bebaebc9dea41229f31daefb4e6196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_63
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1669
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da75b2eeace44bd0a8e39e359626805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_64
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1653
+        width: 239
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1bd244f4d774e848ca4ef602fddc53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_65
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1649
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac95f5842128249e9897464567bcfb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_66
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1661
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f3848ecd234d22ab3823888229d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_67
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1661
+        width: 263
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a5472984eb4f2894951ab5035be48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_68
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 1664
+        width: 241
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595ec3ffa72c4ee380c8cc52751febf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1391
+        width: 196
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810cd5e89a204ef3be6555642f713c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_70
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1618
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f17d642b6d54442b556d402cbbfedf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_71
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1607
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13094b1981614e2da7a2647aa127fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_72
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1608
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000939b60745945cda74072c050f5e18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_73
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1610
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60855d8980fe04b36b1465a5e66759d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_74
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1373
+        width: 220
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c397390ca7842bb934665a11efcf0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_75
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1376
+        width: 234
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c53d0aebce64aba9363aad9f211772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_76
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1557
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24209d18c05e241278553738bcb3bda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_77
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1379
+        width: 221
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e689b91cfba394f83a257a2b6f210dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_78
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1382
+        width: 235
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a301cef98c66499bbb63bf52c3b7bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_79
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1380
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df07d6fbe894dfc97b2a2377da1fc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_80
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1387
+        width: 244
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aa5e46b523a4db1b9c6de4c357e6df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_81
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1379
+        width: 290
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd0e0ea79e9421eaff539fc3e3b285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_82
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1384
+        width: 233
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b1a5f171864fd7881daa81b5aecb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_83
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1386
+        width: 248
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da3249dfee348bca880344b12f9477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_84
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1396
+        width: 246
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc236c987a410429fa289082d252f0d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_85
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1340
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a0427ad6784801a2a660afe1a9283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_86
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1343
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3f6e5272105452fa6ddd9a2f580b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_87
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1345
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e3872fac8f468bafbc6efd67f66a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_88
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1164
+        width: 262
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27729d030bfe7455895255c9fd16c9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_89
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1110
+        width: 228
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0696f95b22954651bdc8795920432f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1114
+        width: 264
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a7c87d526f47b8a0f448f878915cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_91
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1114
+        width: 215
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10d3b23b3974f15b250ffcb21e54e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_92
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1114
+        width: 189
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae181f8ee349746fb843af80d02c31dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_93
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1120
+        width: 239
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea8a1786bff48259f1bb5cd4e52e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_94
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1119
+        width: 231
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f152c99b764919929a1608c7f9035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_95
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1120
+        width: 218
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b2658d3267b43fa95ebd5d687058c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_96
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1120
+        width: 159
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92de0bf8b72f4c6392433b855273d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_97
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1115
+        width: 210
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb4625745c554e3e8acbb020e92bddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_98
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 1115
+        width: 241
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3f0bce6ae045d3b10cf35dc1e8f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_99
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1078
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e20174ed55249b388a1b315eae606f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_100
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1084
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b892580ab70412fbdd611992a3d328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_101
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1063
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d409a1aeb54cea9531eac1e61cd17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_102
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 838
+        width: 189
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571e30fbac8345a98290b891a0c47cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_103
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1064
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1968c1b44e8448cb1fac0bfe404c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_104
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 843
+        width: 189
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e55ecd56b1b54e62809db200d473bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_105
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 848
+        width: 218
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97bf82f39d945849ab2bb9600ec355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_106
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 855
+        width: 210
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b26a85a597a452ea263f02348250c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_107
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 853
+        width: 236
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae56c9d47124fb9abe9a4d5d81eb04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_108
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 842
+        width: 220
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfda28755e2445dc80d31525fd96d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_109
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 845
+        width: 239
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9278c4dfc3040aab623cc97ae50009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_110
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 847
+        width: 213
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663c68019bdfe45f38e12a80f67efb8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_111
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1054
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097ee21fba444a658e8dc4fc6b83643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_112
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 837
+        width: 256
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49f8edab30148e8a8b232885c41b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_113
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1048
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ad20af562bd49ada7be4adaf508ea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_114
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 847
+        width: 231
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3c84787610436981d6484f6e06f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_115
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 848
+        width: 241
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbfb411a2a654e179f24e62a069ff1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_116
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 848
+        width: 255
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68221c273cdb944cc843a5fd7b581ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_117
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 842
+        width: 257
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35b9bf1859a54296a33b243bd6b66c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_118
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 800
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e94722a6d0458096b87a928513724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_119
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 807
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58bd6efc66d4c36898728ba159868b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_120
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 797
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3384e4df1d74f8b94846508e0ecb9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_121
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 798
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8b200aa7a9460e9f122a5694c969a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_122
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 560
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebf40ef2d4f41f1818982e0c9658b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_123
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 561
+        width: 242
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448391b9f6364db89d1eacefc191ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_124
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 772
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779019feed7864df9874fb0dd72d066b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_125
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 561
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5280a7bfeb34d01af527230d057f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_126
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 570
+        width: 207
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d4118ec40d4449785410fcba2838ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_127
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 573
+        width: 236
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f734aaf27e6041dbb26dd1860f6062b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_128
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 570
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1315eff0901495e999dd6237118af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_129
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 575
+        width: 243
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06041f6080041c1829289f89409fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_130
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 573
+        width: 241
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5144399a81c74d4da303af5bbb00172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_131
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 576
+        width: 256
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae9a3e000ce84fd1b278b92057d0248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_132
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 561
+        width: 189
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0f7a56ea10247948855de9421be040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_133
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 561
+        width: 242
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bb2ac0710848a28738397bb8ed65a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_134
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 560
+        width: 256
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6270963338f4f7ea5ec71634faf850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_135
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 560
+        width: 257
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a481625675a24d7fac07baa6ca3d5c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_136
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 303
+        width: 246
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c33d726309e4997b31a233db2eae83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_137
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 298
+        width: 245
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d75ff03efc74c7ca80442609254b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_138
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 296
+        width: 130
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f880ac3d22f5b4c2e83b538dfb68a7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_139
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 519
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c028f3e450946638178eeb54065ebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_140
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 303
+        width: 183
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa777cb847a45f893175a4dc0bdc15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_141
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 298
+        width: 283
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c044ee16dce024a1a91d8bee0ee3eb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_142
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 296
+        width: 218
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2bd49a129164871a6864e6cbbf0baa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_143
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 291
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df6b3c974cb4b8dbab8787bb2aea2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_144
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 293
+        width: 175
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38dcd51b217c4766bd5b647f1833b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_145
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 288
+        width: 226
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b404030e3e4659b657dfe9ded187e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_146
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 294
+        width: 238
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a7f76b731a43d6a17ca0f7e1f3bcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_147
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 464
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f23173d31c4b9fb21bdc272e8a6c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_148
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 296
+        width: 174
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e88274237444f48b8d12251f1949dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_149
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 293
+        width: 284
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199ef6df41fe404a844c11b80274f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_150
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 298
+        width: 245
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab0c39bd27d43c48bdbad5760b5cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_151
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 268
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc0b5ca4bdd4c688c2efa689476c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_152
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 265
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a019231db94f788520eb1ad5c93bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_153
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 266
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56625b642285f415fbab65ec98f6a50c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_154
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 31
+        width: 150
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5a3285adddb49fca198db7f4ef9a27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_155
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 283
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b164748e5df403891785e502b9665f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_156
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 31
+        width: 218
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d14a317304f3472f9057ae65f39802f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_157
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 29
+        width: 224
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087fc068c291448408a15482d9b0773b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_158
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 27
+        width: 189
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0582336a5ef4f948bd7ad9a63de939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_159
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 34
+        width: 222
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5e95c1d68e42bb9570421d5a37ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_160
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 35
+        width: 222
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856eff21f1c61473dbc90bb3a4cb5b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_161
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 35
+        width: 224
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bab3e85f1ad4f6392f3ea3fe963db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_162
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 38
+        width: 222
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480b64d880285436db28ac0784537336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: optimus_transparent_163
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 38
+        width: 267
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa78f279459947649fa4cbf42353335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b00c4023a5bba4a6197502e733a6a87f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
