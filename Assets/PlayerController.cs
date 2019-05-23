@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class PlayerController : MonoBehaviour
 {
 
@@ -9,21 +10,31 @@ public class PlayerController : MonoBehaviour
     public Joystick joystick;
     public float speed;
     public Animator animator;
-
+    public Transform groundCheck;
+    public float groundCheckRadius = 0.2f;
+    public float jumpForce = 8.0f;
+    public int extaJumpsCount = 2;
+    public LayerMask whatIsGround;
 
     Vector2 move;
     bool flip;
+    bool isGrounded;
+    bool isDoubleJumpAvailable;
+    int jumpsCount;
+
 
     // Start is called before the first frame update
-    void Start()
+    void awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        jumpsCount = extaJumpsCount;
+        isDoubleJumpAvailable = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-        move = joystick.Direction * speed; //Должно быть уже нормализовано джойстиком
+        move = joystick.Direction;//new Vector2(joystick.Horizontal, 0.0f) * speed; // почему не работает new Vector2(joystick.Horizontal, rb.position.y).normalized * speed;
 
         animator.SetBool("Walk", System.Math.Abs(joystick.Horizontal) > 0.0f);
 
@@ -34,11 +45,28 @@ public class PlayerController : MonoBehaviour
             tmp.x *= -1;
             transform.localScale = tmp;
         }
+
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, whatIsGround); //1 << LayerMask.NameToLayer("Ground")); //whatIsGround);
+        if (move.y > 0.0f)
+        {
+            if (isGrounded)
+            {             
+                rb.velocity = Vector2.up * jumpForce;
+                jumpsCount = extaJumpsCount;
+                isDoubleJumpAvailable = false;
+            } 
+            else if (jumpsCount > 0 && isDoubleJumpAvailable) 
+            {
+                rb.velocity = Vector2.up * jumpForce;
+                jumpsCount--;
+            }
+        } else {
+            isDoubleJumpAvailable = true;
+        }
     }
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + move * Time.deltaTime);
-
+        rb.velocity = new Vector2(move.x * speed, rb.velocity.y);
     }
 }
