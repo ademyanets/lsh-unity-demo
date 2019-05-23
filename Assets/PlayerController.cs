@@ -62,7 +62,11 @@ public class PlayerController : MonoBehaviour
                 jumpsCount--;
             }
         } else {
-            isDoubleJumpAvailable = true;
+            if (!isGrounded)
+            {
+                isDoubleJumpAvailable = true;
+            }
+            animator.SetBool("Crouch", isGrounded && move.y < 0);
         }
     }
 

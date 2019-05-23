@@ -377,7 +377,7 @@ MonoBehaviour:
   animator: {fileID: 481458162}
   groundCheck: {fileID: 938016088}
   groundCheckRadius: 0.2
-  jumpForce: 2
+  jumpForce: 10
   extaJumpsCount: 2
   whatIsGround:
     serializedVersion: 2
@@ -418,7 +418,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.9, y: 2.22}
+    oldSize: {x: 2.1799998, y: 2.1799998}
     newSize: {x: 3.87, y: 1.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
