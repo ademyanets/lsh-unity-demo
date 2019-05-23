@@ -47,10 +47,11 @@ public class PlayerController : MonoBehaviour
         }
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, whatIsGround); //1 << LayerMask.NameToLayer("Ground")); //whatIsGround);
+        animator.SetBool("Jump", !isGrounded);
         if (move.y > 0.0f)
         {
             if (isGrounded)
-            {             
+            {
                 rb.velocity = Vector2.up * jumpForce;
                 jumpsCount = extaJumpsCount;
                 isDoubleJumpAvailable = false;
