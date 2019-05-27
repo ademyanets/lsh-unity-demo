@@ -7,7 +7,9 @@ public class ScoreManager : MonoBehaviour
 {
 
     public static ScoreManager instance;
+    public GameObject coin;
     public TextMeshProUGUI text;
+    public int coinsCount = 4;
     int score;
 
     // Start is called before the first frame update
@@ -15,7 +17,16 @@ public class ScoreManager : MonoBehaviour
     {
         if (instance == null)
         {
-            instance = new ScoreManager();
+            instance = this;
+            StartCoroutine(SpawnCoins());
+        }
+    }
+
+    IEnumerator SpawnCoins () {
+        int i = coinsCount;
+        while (i-- > 0) {
+            Instantiate(coin, new Vector2(Random.Range(-12f, 12f), 15.0f), Quaternion.identity);
+            yield return new WaitForSeconds(1.0f);
         }
     }
 
